@@ -10,24 +10,29 @@ This portfolio highlights my projects, professional experience, resume, and cert
 
 This repository contains projects that demonstrate my ability to handle **real-world business and data challenges**, including:  
 
-1. **Advanced Tableau Dashboards for Sales & Customer Analytics**  
+1. **Data Professionals Job Market Insights**
+   - Analyzed 200K+ U.S. data job postings to uncover trends in skill demand, salary patterns, and role-based compensation using Python-based analytics.
+   - Delivered insightful visualizations, helping professionals identify optimal upskilling paths.
+   - Tools: **Python, Pandas, Matplotlib, Seaborn, Git, GitHub**
+   - [View Project](https://github.com/avinashchoudhary2004/my-Portfolio/tree/main/Data%20Professionals%20Job%20Market%20Insights)
+ 
+2. **Advanced Tableau Dashboards for Sales & Customer Analytics**  
    - Designed executive-ready dashboards with dynamic filters and KPI tracking.  
    - Focused on **sales trends, product performance, and customer contribution insights**.  
    - Tools: **Tableau, Excel**  
-   - [View Project](https://github.com/avinashchoudhary2004/Business-Analysis-Portfolio/tree/9257984e5740062a34bc79012f470d979170300a/Advanced%20Tableau%20Dashboards%20for%20Sales%20%26%20Customer%20Analytics)
+   - [View Project](https://github.com/avinashchoudhary2004/my-Portfolio/tree/9257984e5740062a34bc79012f470d979170300a/Advanced%20Tableau%20Dashboards%20for%20Sales%20%26%20Customer%20Analytics)
 
-2. **Insights on Global Layoffs (2020–2025) via SQL Analytics**  
+3. **Insights on Global Layoffs (2020–2025) via SQL Analytics**  
    - Developed end-to-end **SQL workflows** for data cleaning, transformation, and analysis.  
    - Extracted actionable insights across industries, geographies, and funding stages.  
    - Tools: **SQL, Excel**  
-   - [View Project](https://github.com/avinashchoudhary2004/Business-Analysis-Portfolio/tree/main/Global%20Layoffs%20Insights%20Through%20SQL%20Analytics)
+   - [View Project](https://github.com/avinashchoudhary2004/my-Portfolio/tree/main/Global%20Layoffs%20Insights%20Through%20SQL%20Analytics)
 
-3. **Understanding Material Removal Mechanics Through FEM Simulation**  
+4. **Understanding Material Removal Mechanics Through FEM Simulation**  
    - Conducted **FEM simulations** to study nano-scratching effects on metallic surfaces.  
    - Investigated **stress-strain behavior, plastic deformation, and material response**.  
    - Tools: **Abaqus, SolidWorks**  
    - Note: While this project is mechanical in nature, it demonstrates **analytical and research skills** transferable to business and data contexts.  
-   - [View Project](https://github.com/avinashchoudhary2004/Business-Analysis-Portfolio/tree/main/FEM%20Nano-Scratching)
 
 ---
 

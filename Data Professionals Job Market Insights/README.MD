@@ -185,11 +185,11 @@ fig.tight_layout()
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./plots/output-1.png" alt="Junior roles" width="90%" height="300">
+      <img src="./Plots/output-1.png" alt="Junior roles" width="90%" height="300">
       <br><strong>For Junior Roles</strong>
     </td>
     <td align="center" width="50%">
-      <img src="./plots/output-2.png" alt="Senior roles" width="90%" height="300">
+      <img src="./Plots/output-2.png" alt="Senior roles" width="90%" height="300">
       <br><strong>For Senior Roles</strong>
     </td>
   </tr>
@@ -279,7 +279,7 @@ sns.barplot(data=most_paid_skills, x='mean', y='job_skills', ax=ax[1])
 
 ### Output
 <div style="text-align: center;">
-  <img src="./plots/output-3.png" alt="Most Demanded Skills">
+  <img src="./Plots/output-3.png" alt="Most Demanded Skills">
 </div>
 
 
@@ -350,11 +350,11 @@ fig.suptitle('Salary distribution for top 10 job location', ...)
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="./plots/output-4.png" alt="Distribution by Job Title" width="90%" height="300">
+      <img src="./Plots/output-4.png" alt="Distribution by Job Title" width="90%" height="300">
       <br><strong>Distribution by Job Title</strong>
     </td>
     <td align="center" width="50%">
-      <img src="./plots/output-5.png" alt="Distribution by Location" width="90%" height="300">
+      <img src="./Plots/output-5.png" alt="Distribution by Location" width="90%" height="300">
       <br><strong>Distribution by Location</strong>
     </td>
   </tr>
@@ -425,7 +425,7 @@ plt.title(f"Skill Demand vs Mean Salary for {job_role}", ...)
 
 ### Output
 <div style="text-align: center;">
-  <img src="./plots/output-6.png" alt="Most Demanded Skills">
+  <img src="./Plots/output-6.png" alt="Most Demanded Skills">
 </div>
 
 ### Insights
